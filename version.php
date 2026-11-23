@@ -18,7 +18,7 @@
  * Plugin version and other meta-data are defined here.
  *
  * @package     local_webredact
- * @copyright   2026 Davi Vaccarezza <davi@adapta.online>
+ * @copyright   2026 Davi Vaccarezza <davivacareza@gmail.com>
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -27,5 +27,5 @@ defined('MOODLE_INTERNAL') || die();
 $plugin->component = 'local_webredact';
 $plugin->release = '0.1.0';
 $plugin->version = 2026110600;
-$plugin->requires = 2023042400;
+$plugin->requires = 2026100500;
 $plugin->maturity = MATURITY_ALPHA;

@@ -19,15 +19,10 @@
  *
  * @package     local_webredact
  * @category    string
- * @copyright   2026 Davi Vaccarezza <davi@adapta.online>
+ * @copyright   2026 Davi Vaccarezza <davivacareza@gmail.com>
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-/**
- * Fazendo os cometarios aqui pois em baixo das variaveis da erro por algu motivo
- * Adicionando a mensagem para outras linguas.
- * $string['postedby'] = 'Posted by {$a}.'; a partir desse codigo
- * em diante Isso adiciona o nome do usuario.
- */
+ $string['webredact']
 
 defined('MOODLE_INTERNAL') || die();
